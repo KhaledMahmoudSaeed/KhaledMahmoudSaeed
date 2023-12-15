@@ -22,7 +22,8 @@ I’m currently self-developing and looking for opportunities to implement, lear
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 
-<p align="center"> 
+<p align="center">
+  <i><b>Profile Visitor Count...</b></i><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
   <img src="https://profile-counter.glitch.me/KhaledMahmoudSaeed/count.svg" />
 </p>
