@@ -1,6 +1,6 @@
 ### Hallo Welt 👋
 I’m student in electric engineering department in faculty of engineering in Zagazig university. I strive to be a programming geek.
-The most proverb that I love it is  " Das ist noch kein meister vom heimal gefallen" ,these proverb is in German
+The most proverb that I love it is  " Es ist noch kein meister vom himmel gefallen" ,these proverb is in German
 I learned German language and I am very good with it whether speak , write and listen .
 
 Although, technically I’m beginning of the road through to begin my career journey,but I hope reach to mid-way by the end of this year. 
