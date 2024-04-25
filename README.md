@@ -1,34 +1,37 @@
 ### Hallo Welt 👋
-I’m student in electric engineering department in faculty of engineering in Zagazig university. I strive to be a programming geek.
+I’m a student in the electric engineering department in the faculty of engineering at Zagazig University. I strive to be a programming geek.
 The most proverb that I love it is  " Es ist noch kein meister vom himmel gefallen" ,these proverb is in German
-I learned German language and I am very good with it whether speak , write and listen .
+I learned the German language and I am very good at it whether speaking, writing and listening.
 
-Although, technically I’m beginning of the road through to begin my career journey,but I hope reach to mid-way by the end of this year. 
+Although, technically I’m beginning of the road through to begin my career journey, but I hope reach to mid-way by the end of this year. 
 
 I’m currently self-developing and looking for opportunities to implement, learn and improve.
 <p align="left"> 
   <img align='right' src='https://media1.tenor.com/images/763645168fe913c18e4d52385e91cccc/tenor.gif?itemid=11550101' height = "200" width="250" >
 </p>
+<p align="center">
 
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaild22k12m71f@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-mahmoud-/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaild22k12m71f@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230177B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-mahmoud-/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015074238386)
+[![Discord](https://img.shields.io/badge/Discord-4634f0?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/945781914286055474)
+
+</a>
+</p>
 
 ### Languages I use  
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+
 
 ##### Some of the technologies I have worked with
-
-<a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-<a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-
-
-
-
-
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 <p align="center">
   <i><b>Profile Visitor Count...</b></i><br>
@@ -36,6 +39,16 @@ I’m currently self-developing and looking for opportunities to implement, lear
   <img src="https://profile-counter.glitch.me/KhaledMahmoudSaeed/count.svg" />
 </p>
 
+
+
+### 🎯GitHub Stats <p align="center"> 
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=KhaledMahmoudSaeed&show_icons=true&theme=dark"></a>
+<p align="center">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user={KhaledMahmoudSaeed}&theme=dark"></a>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMahmoudSaeed&layout=compact&theme=dark"></a>
 <!--
 **KhaledMahmoudSaeed/KhaledMahmoudSaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
