@@ -14,7 +14,6 @@ I’m currently self-developing and looking for opportunities to implement, lear
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaild22k12m71f@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230177B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-mahmoud-/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015074238386)
 [![Discord](https://img.shields.io/badge/Discord-4634f0?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/945781914286055474)
 
 </a>
